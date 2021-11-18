@@ -1,0 +1,12 @@
+info: Nov-10-2021 01:08:28: 	APP LISTENING ON http://localhost:3000
+info: Nov-10-2021 01:09:09: 	Server Sent A Hello World!
+error: Nov-10-2021 01:10:19: 	500 - Internal Server Error - y is not defined - /calc - GET - 127.0.0.1
+info: Nov-10-2021 01:12:49: 	Server Sent A Hello World!
+error: Nov-10-2021 01:13:00: 	400 || Not Found - /hello - GET - 127.0.0.1
+info: Nov-10-2021 01:21:02: 	APP LISTENING ON http://localhost:3000
+info: Nov-10-2021 01:21:27: 	Server Sent A Hello World!
+error: Nov-10-2021 01:22:08: 	500 - Internal Server Error - y is not defined - /calc - GET - 127.0.0.1
+error: Nov-10-2021 01:22:19: 	400 || Not Found - /hello - GET - 127.0.0.1
+info: Nov-10-2021 21:07:54: 	Server Sent A Hello World!
+info: Nov-10-2021 22:44:48: 	Server Sent A Hello World!
+info: Nov-14-2021 21:02:16: 	Server Sent A Hello World!
